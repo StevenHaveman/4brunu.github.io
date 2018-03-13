@@ -269,7 +269,7 @@ defaults:
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
 username: stevenhaveman
-repo: stevenhaveman.github.io
+repo: 4brunu_copytest
 source_branch: source
 destination_brach: master
 destination: ../gh-pages/
