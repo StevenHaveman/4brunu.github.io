@@ -9,13 +9,13 @@ theme: minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "en"
-title                    : "4brunu.github.io"
+title                    : "4brunu_copytest.github.io"
 title_separator          : "-"
-name                     : "Bruno Coelho"
+name                     : "Steven Haveman"
 description              : "iOS, Android and Code"
-url                      : "https://4brunu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://stevenhaveman.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "4brunu/4brunu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "4brunu_copytest/stevenhaveman.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "4brunu"
+  username               : "haveman"
 facebook:
   username               :
   app_id                 :
@@ -72,17 +72,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : #"google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-76819575-1"
+    tracking_id          : #"UA-76819575-1"
 
 
 # Site Author
 author:
-  name             : "Bruno Coelho"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineer | iOS | Android"
-  location         : "Portugal"
+  name             : "Steven Haveman"
+  avatar           : #"/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : #"Software Engineer | iOS | Android"
+  location         : #"Portugal"
   email            :
   uri              :
   bitbucket        :
@@ -91,18 +91,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "4brunu"
+  github           : "StevenHaveman"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "4brunu"
+  linkedin         : "StevenHaveman"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "976628/bruno-coelho" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "4brunu"
+  twitter          : "haveman"
   vine             :
   weibo            :
   xing             :
@@ -268,8 +268,8 @@ defaults:
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-username: 4brunu
-repo: 4brunu.github.io
+username: stevenhaveman
+repo: stevenhaveman.github.io
 source_branch: source
 destination_brach: master
 destination: ../gh-pages/
