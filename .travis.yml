@@ -18,7 +18,7 @@ script: bundle exec rake site:deploy #--quiet #--trace
 
 env:
   global:
-    - secure: #to be added
+    - secure: "pJ/1SWQA7+j0L9MKV/LcDg9Pt8MLNxtzDTAk26ziYES+D9r1ck7LTSPsF27ouTNE1EwZfww/bEigmHEW4ZR1f8f9sB5GJNRUoUjDVXDSdMvY1axeoIsuqZG2rnqPuKGXfUesJCByJXqaHIOYBEH6w/n+L8tTlkogNbkxlr2h2ggKVeO6X/sZyAxzc6JhzeISADSWOW3k8IzqI6dClUnHVZSKqqSIoxwh8InJzIj16yr4mhFh0YiSMkdcparE2fzgiqak57nfrc9rs65GfJeJeAsc5J4FhugaVw82F+EiUkv6/0DbPJ/J8y9/rc2YBq/P2q2Ft3gufHl7jxMNHG+20zykZ/b5QkQ9i/t/BMHMNArQP5sO6GvwWAOM2XdAPT3kN2uEcoOj8FTS34Ficbats9HsIHJy4ncTt0PSmaMonLVBkWgsL8PpiB83XIWjgGLWlA7ZfriiTstJJNWAYxAJJnFX3Aqnh8OOeUUzkqQlReDnl5GRdIjxvP9yUZ2Ym0X0tL6zNMaEkFJ4XmjQq0EqVy3EKemlPV16Er06xtdIBZRdQtTvAUptxYhy+215SFuQPl39p3Qek9UZcBBMTacClld3S1+0j4R6+CW2MbaHBO+toWVWEXawx2JLn1yY1xarDOCpTlHjjcltEP/w37sGVXdNQcfBcKCPD0G/EkGXqwU="
 
 branches:
   only:
