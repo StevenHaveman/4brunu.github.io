@@ -5,5 +5,5 @@ source 'https://rubygems.org'
 
 # gem 'bundler', '1.3.7'
 gem 'rake', '12.0.0'
-#gem 'minimal-mistakes-jekyll', '4.4.1'
-gem "minimal-mistakes-jekyll", :git => "https://github.com/mmistakes/minimal-mistakes.git", :branch => "susy-3-upgrade"
+gem 'minimal-mistakes-jekyll', '4.4.1'
+
